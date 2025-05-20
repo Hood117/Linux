@@ -1,5 +1,5 @@
 # Linux
-Basics things
+Basic and simple scripts
 
 A collection of simple,shell scripts for managing Linux systems
 Includes user setup, management, and system utilities.
